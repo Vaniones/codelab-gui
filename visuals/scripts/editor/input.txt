@@ -1,0 +1,3 @@
+<input type=text id="block_input_"/>
+<script nonce="input_8634323423434342442C646a80f"/>
+<script nonce="input_8634323423434242442C646a80f"/>
